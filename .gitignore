@@ -7,3 +7,12 @@
 
 # .tfvars files
 *.tfvars
+
+# IntelliJ files
+.idea/**
+*.iws
+*.iml
+*.ipl
+
+# Mac OSx
+.DS_Store
